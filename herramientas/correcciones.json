@@ -1,0 +1,3215 @@
+{
+ "183451": {
+  "name": "Spray perfumado Kaiak Sonar 100 ml (precio especial con regalo Kaiak Sonar)",
+  "price": 19900,
+  "before": null
+ },
+ "265989": {
+  "name": "Regalo Kaiak Sonar masculino con mini (EDT 100 ml + 25 ml + bolsa)"
+ },
+ "218357": {
+  "name": "Eau de toilette masculino Kaiak Sonar 25 ml"
+ },
+ "203373": {
+  "name": "Frescores Ekos - Eau de toilette femenino 150 ml Menta amazónica",
+  "price": 71800,
+  "before": 110500
+ },
+ "203375": {
+  "name": "Frescores Ekos - Eau de toilette femenino 150 ml Flor de vindicá",
+  "price": 71800,
+  "before": 110500
+ },
+ "262995": {
+  "name": "Bolsa pequeña para regalo",
+  "price": 3000
+ },
+ "246364": {
+  "name": "Porta brochas Creer para Ver",
+  "price": 23900,
+  "before": 29900
+ },
+ "278591": {
+  "new": true,
+  "name": "Rubor Intense Me Coral perlado (precio especial comprando el porta brochas)",
+  "price": 69200,
+  "page": 38,
+  "section": "Maquillaje",
+  "pts": 17
+ },
+ "278567": {
+  "new": true,
+  "name": "Rubor Intense Me Rosa matte (precio especial comprando el porta brochas)",
+  "price": 69200,
+  "page": 38,
+  "section": "Maquillaje",
+  "pts": 17
+ },
+ "278568": {
+  "new": true,
+  "name": "Rubor Intense Me Bronce perlado (precio especial comprando el porta brochas)",
+  "price": 69200,
+  "page": 38,
+  "section": "Maquillaje",
+  "pts": 17
+ },
+ "278771": {
+  "price": 115600,
+  "before": 192800
+ },
+ "110250": {
+  "name": "Eau de parfum masculino Essencial Exclusivo 100 ml - Repuesto",
+  "price": 141300,
+  "before": 201900
+ },
+ "67647": {
+  "name": "Pestañina para ojos y cejas Faces Incolora 7 ml",
+  "price": 17200,
+  "before": 24600
+ },
+ "page:43": {
+  "prefix": "Base sérum Nude Me Una 30 ml - ",
+  "price": 76900,
+  "before": 109900,
+  "pts": 18
+ },
+ "page:44": {
+  "prefix": "Labial CC hidratante Una 3,8 g - ",
+  "price": 43000,
+  "before": 61500,
+  "pts": 10
+ },
+ "278754": {
+  "name": "Kit Bifásico Chronos Derma (desmaquillante 150 ml + repuesto 150 ml)",
+  "price": 92400,
+  "before": 132000
+ },
+ "100090": {
+  "name": "Crema nutritiva para el cuerpo Tododia Ciruela y flor de vainilla 400 ml",
+  "price": 53600,
+  "before": 71500
+ },
+ "216697": {
+  "name": "Sérum corporal uniformizador Ekos Pitanga 200 g",
+  "price": 74100,
+  "before": 98900
+ },
+ "page:54": {
+  "prefix": "Ekos Eau de toilette femenino 150 ml - ",
+  "price": 110500,
+  "before": null,
+  "pts": 18
+ },
+ "220917": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Cacau (nuevo)",
+  "price": 110500
+ },
+ "73574": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Maracuyá",
+  "price": 110500
+ },
+ "73575": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Pitanga negra"
+ },
+ "73572": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Castaña"
+ },
+ "75955": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Açaí"
+ },
+ "199394": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Cupuazú"
+ },
+ "118997": {
+  "name": "Ekos Eau de toilette 150 ml Maracuyá - Repuesto",
+  "price": 88400,
+  "pts": 14
+ },
+ "119001": {
+  "name": "Ekos Eau de toilette 150 ml Pitanga negra - Repuesto",
+  "price": 88400,
+  "pts": 14
+ },
+ "118996": {
+  "name": "Ekos Eau de toilette 150 ml Castaña - Repuesto",
+  "price": 88400,
+  "pts": 14
+ },
+ "73573": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Pitanga",
+  "price": 82800,
+  "before": 110500,
+  "pts": 18
+ },
+ "18403": {
+  "name": "Ekos Eau de toilette femenino 150 ml - Ishpink",
+  "price": 82800,
+  "before": 110500,
+  "pts": 18
+ },
+ "119000": {
+  "name": "Ekos Eau de toilette 150 ml Pitanga - Repuesto",
+  "price": 88400,
+  "before": null,
+  "pts": 14
+ },
+ "111179": {
+  "name": "Kaiak Océano Eau de toilette femenino 100 ml",
+  "price": 153900
+ },
+ "156229": {
+  "name": "Kaiak Sonar Eau de toilette femenino 100 ml",
+  "price": 153900
+ },
+ "248629": {
+  "name": "Kaiak 21K Eau de toilette femenino 100 ml",
+  "price": 153900
+ },
+ "173421": {
+  "name": "Ilía Jardim Secreto Eau de parfum femenino 50 ml",
+  "price": 148900
+ },
+ "122344": {
+  "name": "Ilía completa Eau de parfum femenino 50 ml",
+  "price": 148900
+ },
+ "44171": {
+  "name": "Ilía Clásico Eau de parfum femenino 50 ml",
+  "price": 148900
+ },
+ "83322": {
+  "name": "Ilía Secreto Eau de parfum femenino 50 ml",
+  "price": 148900
+ },
+ "64746": {
+  "name": "Humor Primeiro Eau de toilette femenino 75 ml",
+  "price": 149900
+ },
+ "64749": {
+  "name": "Humor Próprio Eau de toilette femenino 75 ml",
+  "price": 149900,
+  "pts": 24
+ },
+ "131491": {
+  "name": "Humor festival Eau de toilette femenino 75 ml",
+  "price": 149900,
+  "pts": 24
+ },
+ "206237": {
+  "name": "Humor +Confianza Eau de toilette unisex 25 ml",
+  "price": 59900
+ },
+ "206238": {
+  "name": "Humor +Vibraciones Eau de toilette unisex 25 ml",
+  "price": 59900
+ },
+ "206236": {
+  "name": "Humor +Ánimo Eau de toilette unisex 25 ml",
+  "price": 59900
+ },
+ "205937": {
+  "name": "Tododia Spray perfumado 200 ml - Fresa y vainilla dorada (último ciclo)",
+  "price": 54900
+ },
+ "88075": {
+  "name": "Tododia Spray perfumado 200 ml - Mora roja y jabuticaba",
+  "price": 54900
+ },
+ "76383": {
+  "name": "Tododia Spray perfumado 200 ml - Frambuesa y pimienta rosa",
+  "price": 54900,
+  "before": null
+ },
+ "72197": {
+  "name": "Tododia Spray perfumado 200 ml - Frutas rojas",
+  "price": 54900,
+  "before": null
+ },
+ "72198": {
+  "name": "Tododia Spray perfumado 200 ml - Hojas de limón y guanábana",
+  "price": 54900
+ },
+ "100679": {
+  "name": "Tododia Spray perfumado 200 ml - Ciruela y flor de vainilla",
+  "price": 41100,
+  "before": 54900
+ },
+ "166370": {
+  "name": "Águas Colonia 150 ml - Frambuesa",
+  "price": 74900,
+  "pts": 12
+ },
+ "95808": {
+  "name": "Águas Colonia 150 ml - Violeta",
+  "price": 74900,
+  "pts": 12
+ },
+ "95810": {
+  "name": "Águas Colonia 150 ml - Jabuticaba",
+  "price": 74900,
+  "pts": 12
+ },
+ "2273": {
+  "new": true,
+  "name": "Válvula para Águas 150 ml",
+  "price": 20900,
+  "page": 63,
+  "section": "Perfumería",
+  "pts": 3
+ },
+ "150225": {
+  "name": "Desodorante antitranspirante Roll-on Homem clásico 75 ml",
+  "price": 28500
+ },
+ "150223": {
+  "name": "Desodorante antitranspirante Roll-on Homem sin perfume 75 ml",
+  "price": 28500
+ },
+ "75242": {
+  "name": "Rubor Intense Me Una 6 g - Coral perlado",
+  "price": 79800,
+  "before": 106500,
+  "pts": 17
+ },
+ "75239": {
+  "name": "Rubor Intense Me Una 6 g - Rosa matte",
+  "price": 79800,
+  "before": 106500,
+  "pts": 17
+ },
+ "75241": {
+  "name": "Rubor Intense Me Una 6 g - Bronce perlado",
+  "price": 79800,
+  "before": 106500,
+  "pts": 17
+ },
+ "92595": {
+  "name": "Rubor Intense Me Una Coral perlado - Repuesto",
+  "price": 75000,
+  "before": null,
+  "pts": 12
+ },
+ "92584": {
+  "name": "Rubor Intense Me Una Rosa matte - Repuesto",
+  "price": 75000,
+  "before": null,
+  "pts": 12
+ },
+ "92576": {
+  "name": "Rubor Intense Me Una Bronce perlado - Repuesto",
+  "price": 75000,
+  "before": null,
+  "pts": 12
+ },
+ "page:78": {
+  "before": null
+ },
+ "124319": {
+  "name": "Paleta de sombras personalizable Una (vacía)",
+  "price": 57000
+ },
+ "106127": {
+  "name": "Repuesto de sombra Una 2 g - Bronce Glow (satinado)",
+  "price": 15700,
+  "before": 22500,
+  "pts": 4
+ },
+ "106138": {
+  "name": "Repuesto de sombra Una 2 g - Plata Sparkling (brillante)",
+  "price": 15700,
+  "before": 22500,
+  "pts": 4
+ },
+ "106136": {
+  "name": "Repuesto de sombra Una 2 g - Mostaza Matte",
+  "price": 15700,
+  "before": 22500,
+  "pts": 4
+ },
+ "106131": {
+  "name": "Repuesto de sombra Una 2 g - Marsala Matte",
+  "price": 15700,
+  "before": 22500,
+  "pts": 4
+ },
+ "105716": {
+  "name": "Pincel pro ojos precisión Una",
+  "price": 54000
+ },
+ "105715": {
+  "name": "Pincel pro ojos difuminador Una",
+  "price": 54000
+ },
+ "72978": {
+  "name": "Sacapuntas Una",
+  "price": 23200
+ },
+ "174921": {
+  "name": "Pestañina lavable Multi HD Una Negro intenso 9 g",
+  "price": 43000,
+  "before": 61500
+ },
+ "107556": {
+  "name": "Lápiz retráctil para cejas Una 250 mg - Castaño claro",
+  "price": 50900,
+  "pts": 8
+ },
+ "107555": {
+  "name": "Lápiz retráctil para cejas Una 250 mg - Castaño oscuro",
+  "price": 50900,
+  "pts": 8
+ },
+ "106294": {
+  "name": "Sérum labial Una Incoloro 1,8 g"
+ },
+ "204430": {
+  "name": "Lápiz labial retráctil pro Una 350 mg - Nude 2C",
+  "price": 50900,
+  "pts": 8
+ },
+ "204434": {
+  "name": "Lápiz labial retráctil pro Una 350 mg - Nude 2C intenso",
+  "price": 50900,
+  "pts": 8
+ },
+ "204429": {
+  "name": "Lápiz labial retráctil pro Una 350 mg - Marrón 10",
+  "price": 50900,
+  "pts": 8
+ },
+ "204432": {
+  "name": "Lápiz labial retráctil pro Una 350 mg - Rojo 1",
+  "price": 50900,
+  "pts": 8
+ },
+ "17275": {
+  "name": "Labial extremo confort FPS 25 Una 3,8 g - Naranja 8C",
+  "price": 51300,
+  "before": null,
+  "pts": 8
+ },
+ "97701": {
+  "name": "Labial extremo confort FPS 25 Una 3,8 g - Coral 3C",
+  "price": 51300,
+  "before": null,
+  "pts": 8
+ },
+ "17352": {
+  "name": "Labial extremo confort FPS 25 Una 3,8 g - Rosa 2C",
+  "price": 51300,
+  "before": null,
+  "pts": 8
+ },
+ "97700": {
+  "name": "Labial extremo confort FPS 25 Una 3,8 g - Violeta 8C",
+  "price": 51300,
+  "before": null,
+  "pts": 8
+ },
+ "17276": {
+  "name": "Labial extremo confort FPS 25 Una 3,8 g - Una N°2",
+  "price": 51300,
+  "before": null,
+  "pts": 8
+ },
+ "205321": {
+  "name": "Labial blur Una 5 ml - Una N°2",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "205325": {
+  "name": "Labial blur Una 5 ml - Marrón 2",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "205330": {
+  "name": "Labial blur Una 5 ml - Coral 3",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "205333": {
+  "name": "Labial blur Una 5 ml - Rojo 3",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "205331": {
+  "name": "Labial blur Una 5 ml - Malva 6",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "205334": {
+  "name": "Labial blur Una 5 ml - Rose 2C",
+  "price": 58500,
+  "before": null,
+  "pts": 9
+ },
+ "148475": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Rose 2C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148470": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Rojo 2C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148472": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Rosa 2C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148471": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Nude 1C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148469": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Violeta 10C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148476": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Rojo 4C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148473": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Vino 8C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "148474": {
+  "name": "Labial ultracare 24 horas Una 7 ml - Marrón 10C",
+  "price": 62500,
+  "before": null,
+  "pts": 10
+ },
+ "140029": {
+  "name": "Labial matte intransferible Una 7 ml - Nude 6M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140023": {
+  "name": "Labial matte intransferible Una 7 ml - Marrón 10M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140019": {
+  "name": "Labial matte intransferible Una 7 ml - Nude 2C intenso",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140032": {
+  "name": "Labial matte intransferible Una 7 ml - Rojo 2M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140033": {
+  "name": "Labial matte intransferible Una 7 ml - Vino 8M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140024": {
+  "name": "Labial matte intransferible Una 7 ml - Rouge 6M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140059": {
+  "name": "Labial matte intransferible Una 7 ml - Rose 2M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140025": {
+  "name": "Labial matte intransferible Una 7 ml - Pink 6M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140053": {
+  "name": "Labial matte intransferible Una 7 ml - Violeta 6M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140018": {
+  "name": "Labial matte intransferible Una 7 ml - Marrón 3M",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "140022": {
+  "name": "Labial matte intransferible Una 7 ml - Nude 2C",
+  "price": 58900,
+  "before": null,
+  "pts": 10
+ },
+ "164825": {
+  "name": "Gloss labial hidratación activa Una 5 ml - Marrón 8",
+  "price": 39800,
+  "before": 56900,
+  "pts": 9
+ },
+ "164820": {
+  "name": "Gloss labial hidratación activa Una 5 ml - Rojo 2",
+  "price": 39800,
+  "before": 56900,
+  "pts": 9
+ },
+ "164821": {
+  "name": "Gloss labial hidratación activa Una 5 ml - Rosa 2",
+  "price": 39800,
+  "before": 56900,
+  "pts": 9
+ },
+ "164826": {
+  "name": "Gloss labial hidratación activa Una 5 ml - Rose 1",
+  "price": 39800,
+  "before": 56900,
+  "pts": 9
+ },
+ "164824": {
+  "name": "Gloss labial hidratación activa Una 5 ml - Incoloro",
+  "price": 39800,
+  "before": 56900,
+  "pts": 9
+ },
+ "15352": {
+  "name": "Esmalte 3D Gel Una 8 ml - Contrapunto 630",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15815": {
+  "name": "Esmalte 3D Gel Una 8 ml - Una N°2",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15821": {
+  "name": "Esmalte 3D Gel Una 8 ml - Mosaico 665",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15479": {
+  "name": "Esmalte 3D Gel Una 8 ml - Palette 730",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15823": {
+  "name": "Esmalte 3D Gel Una 8 ml - Collage 100",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15822": {
+  "name": "Esmalte 3D Gel Una 8 ml - Origami 110",
+  "price": 30500,
+  "before": null,
+  "pts": 5
+ },
+ "15825": {
+  "name": "Base Primer 3D Gel Una 8 ml"
+ },
+ "175112": {
+  "name": "Brillo labial Faces 3,9 g - Rosado",
+  "price": 17600,
+  "before": 25200,
+  "pts": 4
+ },
+ "175105": {
+  "name": "Brillo labial Faces 3,9 g - Holográfico",
+  "price": 17600,
+  "before": 25200,
+  "pts": 4
+ },
+ "175111": {
+  "name": "Brillo labial Faces 3,9 g - Transparente",
+  "price": 17600,
+  "before": 25200,
+  "pts": 4
+ },
+ "175103": {
+  "name": "Brillo labial Faces 3,9 g - Marrón",
+  "price": 17600,
+  "before": 25200,
+  "pts": 4
+ },
+ "111397": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Rosa Wow",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111398": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Cereza Likes",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111428": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Violeta Digital",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111424": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Chocolate Mousse",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111466": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Nude Beauty",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111399": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Ocean Hype",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111426": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Marsala Night",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111425": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Rojo Love",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "111427": {
+  "name": "Labial líquido mate larga duración Faces 5,5 ml - Naranja Summer",
+  "price": 27900,
+  "before": 39900,
+  "pts": 6
+ },
+ "278759": {
+  "name": "Bálsamo desmaquillante para rostro Faces (precio especial comprando maquillaje Faces)",
+  "price": 34200,
+  "before": null,
+  "pts": 9
+ },
+ "107360": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Pink 208",
+  "price": 41000,
+  "before": null,
+  "pts": 7
+ },
+ "107361": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Castaño 406",
+  "price": 41000,
+  "before": null,
+  "pts": 7
+ },
+ "107359": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Rosa 204",
+  "price": 41000,
+  "before": null,
+  "pts": 7
+ },
+ "3379": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Coral 805",
+  "price": 41000,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "4960": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Vermelho 120",
+  "price": 41000,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "6319": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Vinho 540",
+  "price": 41000,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "6422": {
+  "name": "Labial color hidra FPS 8 Faces 3,5 g - Marrón 470",
+  "price": 41000,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "116197": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Cobre Mystic",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116198": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Cereza Drama",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116201": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Hey Honey",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116187": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Broken Brown",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116199": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Vinho Rocks",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116203": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Pink Paradise",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116204": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Cobre Sunset",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "116188": {
+  "name": "Labial cremoso multimix Faces 3,5 g - Vermelho Hot",
+  "price": 21900,
+  "before": null,
+  "pts": 4
+ },
+ "9586": {
+  "name": "Lápiz labial definición Faces 1,4 g - Rojo",
+  "price": 32800,
+  "before": null,
+  "pts": 5,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "9619": {
+  "name": "Lápiz labial definición Faces 1,4 g - Rosa",
+  "price": 32800,
+  "before": null,
+  "pts": 5,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "9583": {
+  "name": "Lápiz labial definición Faces 1,4 g - Vino",
+  "price": 32800,
+  "before": null,
+  "pts": 5,
+  "new": true,
+  "page": 90,
+  "section": "Maquillaje"
+ },
+ "109144": {
+  "name": "Delineador retráctil para ojos Faces 280 mg - Rosa",
+  "price": 32800,
+  "before": null,
+  "pts": 5
+ },
+ "109143": {
+  "name": "Delineador retráctil para ojos Faces 280 mg - Azul Deep",
+  "price": 32800,
+  "before": null,
+  "pts": 5
+ },
+ "109142": {
+  "name": "Delineador retráctil para ojos Faces 280 mg - Marrón Power",
+  "price": 32800,
+  "before": null,
+  "pts": 5
+ },
+ "109141": {
+  "name": "Delineador retráctil para ojos Faces 280 mg - Negro Ink",
+  "price": 22900,
+  "before": 32800,
+  "pts": 5
+ },
+ "9832": {
+  "name": "Súper pestañina tint Faces Lavable 12 ml",
+  "price": 46200,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 92,
+  "section": "Maquillaje"
+ },
+ "9833": {
+  "name": "Súper pestañina tint Faces A prueba de agua 7 ml",
+  "price": 46200,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 92,
+  "section": "Maquillaje"
+ },
+ "9981": {
+  "name": "Lápiz kajal intenso Negro Faces 1,3 g",
+  "price": 37200,
+  "before": null,
+  "pts": 6,
+  "new": true,
+  "page": 92,
+  "section": "Maquillaje"
+ },
+ "67666": {
+  "name": "Pestañina mega fantástica Negra Faces 7 ml",
+  "price": 33900,
+  "before": null,
+  "pts": 5
+ },
+ "67661": {
+  "name": "Mini lápiz para ojos ultra negro Faces 800 mg",
+  "price": 20000,
+  "before": null,
+  "pts": 3
+ },
+ "89503": {
+  "name": "Sombra trío Faces 3 g - Naranja chaos",
+  "price": 46300,
+  "before": null,
+  "pts": 7
+ },
+ "89501": {
+  "name": "Sombra trío Faces 3 g - Azul for you",
+  "price": 46300,
+  "before": null,
+  "pts": 7
+ },
+ "89500": {
+  "name": "Sombra trío Faces 3 g - Rojo rock",
+  "price": 46300,
+  "before": null,
+  "pts": 7
+ },
+ "174175": {
+  "name": "Paleta de sombras Faces Colección de Amor 4,2 g",
+  "price": 47900,
+  "before": null,
+  "pts": 8
+ },
+ "167182": {
+  "name": "Gloss brillo labial Multicolor Faces Colección de Amor 7 g",
+  "price": 25200,
+  "before": null,
+  "pts": 4
+ },
+ "109152": {
+  "name": "Sombra mono Faces 1,5 g - Rosa Like",
+  "price": 41800,
+  "before": null,
+  "pts": 7
+ },
+ "109154": {
+  "name": "Sombra mono Faces 1,5 g - Naranja hype",
+  "price": 41800,
+  "before": null,
+  "pts": 7
+ },
+ "109153": {
+  "name": "Sombra mono Faces 1,5 g - Rojo party",
+  "price": 41800,
+  "before": null,
+  "pts": 7
+ },
+ "109151": {
+  "name": "Sombra mono Faces 1,5 g - Azul Joy",
+  "price": 41800,
+  "before": null,
+  "pts": 7
+ },
+ "166338": {
+  "name": "Base líquida check mate Faces 25 ml - 10N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166332": {
+  "name": "Base líquida check mate Faces 25 ml - 12F",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166341": {
+  "name": "Base líquida check mate Faces 25 ml - 15C",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166335": {
+  "name": "Base líquida check mate Faces 25 ml - 16F",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166329": {
+  "name": "Base líquida check mate Faces 25 ml - 19N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166330": {
+  "name": "Base líquida check mate Faces 25 ml - 20N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166345": {
+  "name": "Base líquida check mate Faces 25 ml - 21C",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166349": {
+  "name": "Base líquida check mate Faces 25 ml - 23F",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166328": {
+  "name": "Base líquida check mate Faces 25 ml - 24F",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166340": {
+  "name": "Base líquida check mate Faces 25 ml - 25C",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166344": {
+  "name": "Base líquida check mate Faces 25 ml - 29N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166326": {
+  "name": "Base líquida check mate Faces 25 ml - 32C",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166346": {
+  "name": "Base líquida check mate Faces 25 ml - 35N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "166336": {
+  "name": "Base líquida check mate Faces 25 ml - 43N",
+  "price": 45900,
+  "before": null,
+  "pts": 7
+ },
+ "8848": {
+  "name": "Polvo compacto mate Faces 6,5 g - Claro 24",
+  "price": 66900,
+  "before": null,
+  "pts": 11,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "8882": {
+  "name": "Polvo compacto mate Faces 6,5 g - Medio 22",
+  "price": 66900,
+  "before": null,
+  "pts": 11,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "8885": {
+  "name": "Polvo compacto mate Faces 6,5 g - Castaño 20",
+  "price": 66900,
+  "before": null,
+  "pts": 11,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9009": {
+  "name": "Polvo compacto mate Faces 6,5 g - Repuesto - Claro 24",
+  "price": 46300,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9025": {
+  "name": "Polvo compacto mate Faces 6,5 g - Repuesto - Medio 22",
+  "price": 46300,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9149": {
+  "name": "Polvo compacto mate Faces 6,5 g - Repuesto - Castaño 20",
+  "price": 46300,
+  "before": null,
+  "pts": 7,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9483": {
+  "name": "Rubor compacto Faces 3 g - Bronce 47",
+  "price": 51400,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9481": {
+  "name": "Rubor compacto Faces 3 g - Rosa 69",
+  "price": 51400,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9456": {
+  "name": "Rubor compacto Faces 3 g - Coral 85",
+  "price": 51400,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "9432": {
+  "name": "Rubor compacto Faces 3 g - Vinho 28",
+  "price": 51400,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 94,
+  "section": "Maquillaje"
+ },
+ "116688": {
+  "name": "Corrector check matte Faces 10 g - 10N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116689": {
+  "name": "Corrector check matte Faces 10 g - 15N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116690": {
+  "name": "Corrector check matte Faces 10 g - 19N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116691": {
+  "name": "Corrector check matte Faces 10 g - 21N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116692": {
+  "name": "Corrector check matte Faces 10 g - 24N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116693": {
+  "name": "Corrector check matte Faces 10 g - 27N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116694": {
+  "name": "Corrector check matte Faces 10 g - 30N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116695": {
+  "name": "Corrector check matte Faces 10 g - 32N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116696": {
+  "name": "Corrector check matte Faces 10 g - 35N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116697": {
+  "name": "Corrector check matte Faces 10 g - 37N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116698": {
+  "name": "Corrector check matte Faces 10 g - 43N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "116699": {
+  "name": "Corrector check matte Faces 10 g - 46N",
+  "price": 38300,
+  "before": null,
+  "pts": 6
+ },
+ "4740": {
+  "name": "Polvo compacto Faces 5,5 g - Claro 24",
+  "price": 47200,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 95,
+  "section": "Maquillaje"
+ },
+ "4729": {
+  "name": "Polvo compacto Faces 5,5 g - Medio 22",
+  "price": 47200,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 95,
+  "section": "Maquillaje"
+ },
+ "4739": {
+  "name": "Polvo compacto Faces 5,5 g - Castaño 20",
+  "price": 47200,
+  "before": null,
+  "pts": 8,
+  "new": true,
+  "page": 95,
+  "section": "Maquillaje"
+ },
+ "12172": {
+  "name": "Polvo compacto Faces 5,5 g - Repuesto - Medio 22",
+  "price": 33900,
+  "before": null,
+  "pts": 5
+ },
+ "12175": {
+  "name": "Polvo compacto Faces 5,5 g - Repuesto - Castaño 20",
+  "price": 33900,
+  "before": null,
+  "pts": 5
+ },
+ "106548": {
+  "name": "Esmalte Faces 6 ml - Azul Santiago",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106534": {
+  "name": "Esmalte Faces 6 ml - Rosa Nude Buenos Aires",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106546": {
+  "name": "Esmalte Faces 6 ml - Violeta New York",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106542": {
+  "name": "Esmalte Faces 6 ml - Rosa Montevideo",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106535": {
+  "name": "Esmalte Faces 6 ml - Pink Rio",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106538": {
+  "name": "Esmalte Faces 6 ml - Coral Atacama",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106544": {
+  "name": "Esmalte Faces 6 ml - Lila Caracas",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "106551": {
+  "name": "Esmalte Faces 6 ml - Verde Canberra",
+  "price": 18000,
+  "before": null,
+  "pts": 3
+ },
+ "169222": {
+  "name": "Chronos Derma Sérum intensivo multiaclarador de manchas 30 ml"
+ },
+ "169235": {
+  "name": "Chronos Derma Sérum intensivo multiaclarador de manchas 30 ml - Repuesto",
+  "price": 117200
+ },
+ "179453": {
+  "name": "Chronos Derma Mini sérum intensivo multiaclarador de manchas 10 ml (nuevo)"
+ },
+ "187709": {
+  "name": "Chronos Derma Doble esencia de tratamiento multiaclaradora y luminosidad 100 ml",
+  "price": 132500
+ },
+ "190898": {
+  "name": "Chronos Derma Doble esencia de tratamiento multiaclaradora 100 ml - Repuesto",
+  "price": 105000
+ },
+ "190899": {
+  "name": "Chronos Derma Polvo de limpieza enzimático 50 g",
+  "price": 70900
+ },
+ "183274": {
+  "name": "Chronos Derma Multiprotector aclarador de manchas FPS 50+ 50 ml - Incoloro",
+  "price": 134400,
+  "before": null,
+  "pts": 22
+ },
+ "247114": {
+  "name": "Chronos Derma Multiprotector aclarador de manchas FPS 50+ 50 ml - Color 1",
+  "price": 134400,
+  "before": null,
+  "pts": 22
+ },
+ "183275": {
+  "name": "Chronos Derma Multiprotector aclarador de manchas FPS 50+ 50 ml - Color 2",
+  "price": 134400,
+  "before": null,
+  "pts": 22
+ },
+ "247704": {
+  "name": "Chronos Derma Multiprotector aclarador de manchas FPS 50+ 50 ml - Color 3",
+  "price": 134400,
+  "before": null,
+  "pts": 22
+ },
+ "183278": {
+  "name": "Chronos Derma Multiprotector aclarador de manchas FPS 50+ 50 ml - Color 4",
+  "price": 134400,
+  "before": null,
+  "pts": 22
+ },
+ "183307": {
+  "name": "Máscara facial Faces 20 ml - Piel oleosa / Refrescante",
+  "price": 14500,
+  "pts": 2
+ },
+ "183308": {
+  "name": "Máscara facial Faces 20 ml - Doble ácido hialurónico / Hidratante",
+  "price": 14500,
+  "pts": 2
+ },
+ "117124": {
+  "name": "Desmaquillante para rostro Faces 120 ml"
+ },
+ "118910": {
+  "name": "Gel booster hidratante facial Faces 35 g"
+ },
+ "189563": {
+  "name": "Hidratante intensivo Faces 50 ml"
+ },
+ "212717": {
+  "name": "Ekos Pitanga Jabones cremosos y exfoliantes 4 x 100 g"
+ },
+ "226557": {
+  "name": "Ekos Pitanga Aceite trifásico corporal 200 ml"
+ },
+ "212716": {
+  "name": "Ekos Pitanga Pulpa hidratante para manos 75 g"
+ },
+ "242813": {
+  "name": "Ekos Pitanga Aceite trifásico corporal 200 ml - Repuesto",
+  "price": 81300,
+  "before": null,
+  "pts": 13
+ },
+ "278755": {
+  "name": "Kit Ekos Pitanga (crema hidratante corporal 400 ml + repuesto 400 ml)",
+  "price": 113300,
+  "before": 174400,
+  "pts": 28
+ },
+ "203478": {
+  "name": "Ekos Cupuazú Pulpa hidratante corporal 400 ml"
+ },
+ "205946": {
+  "name": "Ekos Cupuazú Pulpa hidratante corporal 400 ml - Repuesto"
+ },
+ "199393": {
+  "name": "Ekos Cupuazú Jabones de tocador 4 x 100 g"
+ },
+ "203476": {
+  "name": "Ekos Cupuazú Pulpa hidratante para manos 75 g"
+ },
+ "206217": {
+  "name": "Ekos Cupuazú Jabones de tocador cremoso 4 x 100 g"
+ },
+ "204785": {
+  "name": "Ekos Cupuazú Crema exfoliante para los glúteos 190 g"
+ },
+ "203480": {
+  "name": "Ekos Cupuazú Crema reafirmante para los glúteos 200 ml"
+ },
+ "129799": {
+  "name": "Ekos Jabones en barra puro vegetal 4 x 100 g - Cremosos y refrescantes (Castaña, Maracuyá, Pitanga, Buriti)",
+  "price": 55500
+ },
+ "134574": {
+  "name": "Ekos Jabones en barra puro vegetal 4 x 100 g - Cremosos y exfoliantes (Castaña, Andiroba, Açaí, Maracuyá)",
+  "price": 55500
+ },
+ "134575": {
+  "name": "Ekos Jabones en barra puro vegetal 4 x 100 g - Cremosos (Ucuuba, Maracuyá, Andiroba, Castaña)",
+  "price": 55500
+ },
+ "129797": {
+  "name": "Ekos Jabones en barra puro vegetal 4 x 100 g - Exfoliantes (Açaí, Andiroba, Maracuyá, Castaña)",
+  "price": 55500
+ },
+ "111325": {
+  "name": "Tododia Aceite bifásico corporal Ciruela y flor de vainilla 120 ml"
+ },
+ "174918": {
+  "name": "Tododia Bálsamo labial Ciruela y flor de vainilla 2,7 g"
+ },
+ "100535": {
+  "name": "Tododia Jabones en barra puro vegetal Ciruela y flor de vainilla 5 x 90 g"
+ },
+ "189407": {
+  "name": "Tododia Desodorante antitranspirante Roll-on Ciruela y flor de vainilla 70 ml (llevando 2: $21.300 c/u; 3 o más: $19.900 c/u)",
+  "price": 22800,
+  "before": 28500
+ },
+ "100526": {
+  "name": "Tododia Jabón líquido corporal Ciruela y flor de vainilla 300 ml"
+ },
+ "100530": {
+  "name": "Tododia Desodorante antitranspirante en crema Ciruela y flor de vainilla 80 g"
+ },
+ "189390": {
+  "name": "Desodorante antitranspirante Roll-on Kaiak Clásico masculino 75 ml (llevando 2: $21.300 c/u; 3 o más: $19.900 c/u, combinables)",
+  "price": 22800,
+  "before": 28500,
+  "pts": 5
+ },
+ "189391": {
+  "name": "Desodorante antitranspirante Roll-on Kaiak Clásico femenino 75 ml (llevando 2: $21.300 c/u; 3 o más: $19.900 c/u, combinables)",
+  "price": 22800,
+  "before": 28500,
+  "pts": 5
+ },
+ "189398": {
+  "name": "Desodorante antitranspirante Roll-on Kaiak Urbe masculino 75 ml (llevando 2: $21.300 c/u; 3 o más: $19.900 c/u, combinables)",
+  "price": 22800,
+  "before": 28500,
+  "pts": 5
+ },
+ "204445": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 0% aluminio 70 ml (nuevo)"
+ },
+ "189413": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Sin perfume",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "189408": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Avellana y casis",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "190850": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Piel uniforme",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "191905": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Hojas de limón y guanábana",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "189401": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Leche de algodón",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "189415": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Hierba limón y menta",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "189404": {
+  "name": "Tododia Desodorante antitranspirante Roll-on 70 ml - Mora roja y jabuticaba",
+  "price": 28500,
+  "before": null,
+  "pts": 5
+ },
+ "56747": {
+  "name": "Spray perfumado Kaiak clásico masculino 100 ml",
+  "price": 50800,
+  "before": null,
+  "pts": 8
+ },
+ "56754": {
+  "name": "Spray perfumado Kaiak clásico femenino 100 ml",
+  "price": 50800,
+  "before": null,
+  "pts": 8
+ },
+ "56740": {
+  "name": "Spray perfumado Kaiak Urbe masculino 100 ml",
+  "price": 50800,
+  "before": null,
+  "pts": 8
+ },
+ "56948": {
+  "name": "Spray perfumado Kaiak clásico masculino 100 ml - Repuesto",
+  "price": 40900,
+  "before": null,
+  "pts": 7
+ },
+ "56763": {
+  "name": "Spray perfumado Kaiak clásico femenino 100 ml - Repuesto",
+  "price": 40900,
+  "before": null,
+  "pts": 7
+ },
+ "56956": {
+  "name": "Spray perfumado Kaiak Urbe masculino 100 ml - Repuesto",
+  "price": 40900,
+  "before": null,
+  "pts": 7
+ },
+ "199385": {
+  "name": "Tododia Desodorante antitranspirante en crema 50 g - Sin perfume"
+ },
+ "278543": {
+  "name": "Kit protectores solares (FPS 70 200 ml + FPS 50 niños 200 ml)",
+  "price": 123000,
+  "before": 246000,
+  "pts": 40
+ },
+ "140028": {
+  "name": "Lumina Shampoo en seco 10 g (lanzamiento)",
+  "price": 47500,
+  "before": 67900
+ },
+ "148158": {
+  "name": "Lumina Matización Shampoo matizador 300 ml"
+ },
+ "148450": {
+  "name": "Lumina Matización Fluido matizador multibeneficios 150 ml"
+ },
+ "148157": {
+  "name": "Lumina Matización Shampoo matizador 300 ml - Repuesto",
+  "price": 33500,
+  "before": null,
+  "pts": 5
+ },
+ "148159": {
+  "name": "Lumina Matización Ampolletas restauración antiamarillamiento 4 x 20 ml"
+ },
+ "278738": {
+  "name": "Kit Lumina matización (shampoo 300 ml + acondicionador provitalidad 300 ml + máscara regeneradora 250 ml)",
+  "price": 106400,
+  "before": 141900,
+  "pts": 23
+ },
+ "147411": {
+  "name": "Lumina Nutrición Shampoo nutritivo 300 ml"
+ },
+ "147440": {
+  "name": "Lumina Nutrición Acondicionador polinutrición 300 ml"
+ },
+ "147418": {
+  "name": "Lumina Nutrición Máscara reparadora 250 ml"
+ },
+ "147453": {
+  "name": "Lumina Nutrición Crema para peinar selladora de cutículas 250 ml"
+ },
+ "147448": {
+  "name": "Lumina Nutrición Ampolletas reparación instantánea 4 x 20 ml"
+ },
+ "147412": {
+  "name": "Lumina Nutrición Shampoo nutritivo 300 ml - Repuesto",
+  "price": 33500,
+  "before": null,
+  "pts": 5
+ },
+ "147410": {
+  "name": "Lumina Nutrición Acondicionador polinutrición 300 ml - Repuesto",
+  "price": 33500,
+  "before": null,
+  "pts": 5
+ },
+ "147447": {
+  "name": "Lumina Nutrición Máscara reparadora 250 ml - Repuesto",
+  "price": 48500,
+  "before": null,
+  "pts": 8
+ },
+ "147406": {
+  "name": "Lumina Nutrición Crema para peinar selladora 250 ml - Repuesto",
+  "price": 40900,
+  "before": null,
+  "pts": 7
+ },
+ "278737": {
+  "name": "Kit intermedio Lumina nutrición (shampoo + acondicionador + máscara)",
+  "price": 92200,
+  "before": 141900,
+  "pts": 23
+ },
+ "278774": {
+  "name": "Kit básico Lumina nutrición (shampoo + acondicionador)",
+  "price": 56700,
+  "before": 81000,
+  "pts": 13
+ },
+ "147427": {
+  "name": "Lumina Anticaída Sérum nocturno anticaída 100 ml"
+ },
+ "147417": {
+  "name": "Lumina Anticaída Máscara antiquiebre 250 ml"
+ },
+ "147421": {
+  "name": "Lumina Anticaída Shampoo estimulante 300 ml"
+ },
+ "147444": {
+  "name": "Lumina Anticaída Acondicionador fortificante 300 ml"
+ },
+ "147407": {
+  "name": "Lumina Anticaída Máscara antiquiebre 250 ml - Repuesto",
+  "price": 51900,
+  "before": null,
+  "pts": 8
+ },
+ "147450": {
+  "name": "Lumina Anticaída Shampoo estimulante 300 ml - Repuesto",
+  "price": 34900,
+  "before": null,
+  "pts": 6
+ },
+ "147451": {
+  "name": "Lumina Anticaída Acondicionador fortificante 300 ml - Repuesto",
+  "price": 34900,
+  "before": null,
+  "pts": 6
+ },
+ "278739": {
+  "name": "Kit completo Lumina anticaída (shampoo + acondicionador + máscara + sérum)",
+  "price": 131700,
+  "before": 219600,
+  "pts": 35
+ },
+ "278773": {
+  "name": "Kit intermedio Lumina anticaída (shampoo + acondicionador + máscara)",
+  "price": 97900,
+  "before": 150700,
+  "pts": 24
+ },
+ "278742": {
+  "name": "Kit básico Lumina anticaída (shampoo + acondicionador)",
+  "price": 60000,
+  "before": 85800,
+  "pts": 14
+ },
+ "164516": {
+  "name": "Lumina Fuerza y reparación Shampoo 300 ml"
+ },
+ "164517": {
+  "name": "Lumina Fuerza y reparación Acondicionador 300 ml"
+ },
+ "164505": {
+  "name": "Lumina Fuerza y reparación Máscara 250 ml"
+ },
+ "164518": {
+  "name": "Lumina Fuerza y reparación Protector térmico 150 ml"
+ },
+ "164508": {
+  "name": "Lumina Fuerza y reparación Sérum nocturno 100 ml"
+ },
+ "164509": {
+  "name": "Lumina Fuerza y reparación Shampoo 300 ml - Repuesto",
+  "price": 33500
+ },
+ "164512": {
+  "name": "Lumina Fuerza y reparación Acondicionador 300 ml - Repuesto",
+  "price": 33500
+ },
+ "164506": {
+  "name": "Lumina Fuerza y reparación Máscara 250 ml - Repuesto",
+  "price": 48500,
+  "pts": 8
+ },
+ "167286": {
+  "name": "Lumina Restauración y liso Shampoo 300 ml"
+ },
+ "167291": {
+  "name": "Lumina Restauración y liso Acondicionador 300 ml"
+ },
+ "167288": {
+  "name": "Lumina Restauración y liso Spray de aminoácidos pre secado 150 ml"
+ },
+ "167289": {
+  "name": "Lumina Restauración y liso Mascarilla acondicionadora 250 ml"
+ },
+ "167294": {
+  "name": "Lumina Restauración y liso Shampoo 300 ml - Repuesto"
+ },
+ "167285": {
+  "name": "Lumina Restauración y liso Acondicionador 300 ml - Repuesto"
+ },
+ "167295": {
+  "name": "Lumina Restauración y liso Mascarilla acondicionadora 250 ml - Repuesto"
+ },
+ "147449": {
+  "name": "Lumina Antioleosidad Shampoo equilibrante 300 ml"
+ },
+ "147401": {
+  "name": "Lumina Antioleosidad Acondicionador suave 300 ml"
+ },
+ "147442": {
+  "name": "Lumina Antioleosidad Shampoo equilibrante 300 ml - Repuesto",
+  "price": 26100,
+  "before": 34900,
+  "pts": 6
+ },
+ "147445": {
+  "name": "Lumina Antioleosidad Acondicionador suave 300 ml - Repuesto",
+  "price": 26100,
+  "before": 34900,
+  "pts": 6
+ },
+ "147420": {
+  "name": "Lumina Anticaspa Shampoo reequilibrante 300 ml"
+ },
+ "147408": {
+  "name": "Lumina Anticaspa Shampoo reequilibrante 300 ml - Repuesto",
+  "price": 34900
+ },
+ "200656": {
+  "name": "Lumina Nanoprecisión Shampoo 300 ml"
+ },
+ "200658": {
+  "name": "Lumina Nanoprecisión Acondicionador 300 ml"
+ },
+ "200641": {
+  "name": "Lumina Nanoprecisión Máscara acondicionadora 250 ml"
+ },
+ "205931": {
+  "name": "Lumina Nanoprecisión Aceite bifásico capilar 100 ml"
+ },
+ "147416": {
+  "name": "Lumina Antipolución Shampoo purificante 300 ml"
+ },
+ "147446": {
+  "name": "Lumina Antipolución Acondicionador protector 300 ml"
+ },
+ "147434": {
+  "name": "Lumina Antipolución Spray para peinar 150 ml"
+ },
+ "200649": {
+  "name": "Lumina Antipolución Máscara 250 ml"
+ },
+ "147414": {
+  "name": "Lumina Antipolución Shampoo purificante 300 ml - Repuesto",
+  "price": 33500
+ },
+ "147402": {
+  "name": "Lumina Antipolución Acondicionador protector 300 ml - Repuesto",
+  "price": 33500
+ },
+ "200647": {
+  "name": "Lumina Antipolución Máscara 250 ml - Repuesto",
+  "price": 48500,
+  "pts": 8
+ },
+ "148170": {
+  "name": "Lumina Daños extremos Shampoo reestructurante 300 ml"
+ },
+ "148177": {
+  "name": "Lumina Daños extremos Shampoo reestructurante 300 ml - Repuesto",
+  "price": 33500
+ },
+ "148442": {
+  "name": "Lumina Daños extremos Acondicionador provitalidad 300 ml"
+ },
+ "148399": {
+  "name": "Lumina Daños extremos Acondicionador provitalidad 300 ml - Repuesto",
+  "price": 33500
+ },
+ "148421": {
+  "name": "Lumina Daños extremos Sérum regenerador progresivo 100 ml"
+ },
+ "148412": {
+  "name": "Lumina Daños extremos Máscara regeneradora 250 ml"
+ },
+ "148443": {
+  "name": "Lumina Daños extremos Máscara regeneradora 250 ml - Repuesto",
+  "price": 48500,
+  "pts": 8
+ },
+ "148448": {
+  "name": "Lumina Daños extremos Tratamiento Pro-reconstructor (máscara 220 ml + concentrado 100 ml)"
+ },
+ "148176": {
+  "name": "Lumina Color Shampoo revitalizante 300 ml"
+ },
+ "148175": {
+  "name": "Lumina Color Shampoo revitalizante 300 ml - Repuesto",
+  "price": 33500
+ },
+ "148433": {
+  "name": "Lumina Color Acondicionador protector 300 ml"
+ },
+ "148405": {
+  "name": "Lumina Color Acondicionador protector 300 ml - Repuesto",
+  "price": 33500
+ },
+ "148410": {
+  "name": "Lumina Color Máscara de blindaje 220 ml"
+ },
+ "148444": {
+  "name": "Lumina Color Máscara de blindaje 220 ml - Repuesto",
+  "price": 48500,
+  "pts": 8
+ },
+ "148449": {
+  "name": "Lumina Color Spray antidecoloración y brillo 150 ml"
+ },
+ "148161": {
+  "name": "Lumina Rizos Shampoo cremoso 300 ml"
+ },
+ "148411": {
+  "name": "Lumina Rizos Acondicionador hidratante 300 ml"
+ },
+ "148162": {
+  "name": "Lumina Rizos Shampoo cremoso 300 ml - Repuesto",
+  "price": 33500,
+  "pts": 5
+ },
+ "148413": {
+  "name": "Lumina Rizos Acondicionador hidratante 300 ml - Repuesto",
+  "price": 33500,
+  "pts": 5
+ },
+ "148437": {
+  "name": "Lumina Rizos Crema para peinar modeladora 300 ml"
+ },
+ "148403": {
+  "name": "Lumina Rizos Crema para peinar modeladora 300 ml - Repuesto",
+  "price": 40900
+ },
+ "148440": {
+  "name": "Lumina Rizos Máscara recuperadora 250 ml"
+ },
+ "148406": {
+  "name": "Lumina Rizos Máscara recuperadora 250 ml - Repuesto",
+  "price": 48500
+ },
+ "148419": {
+  "name": "Lumina Rizos Spray humidificador reactivador 150 ml"
+ },
+ "190389": {
+  "name": "Tododia Mango rosa y agua de coco Shampoo sol, mar y piscina 300 ml",
+  "price": 24400,
+  "before": 30500
+ },
+ "190391": {
+  "name": "Tododia Mango rosa y agua de coco Acondicionador sol, mar y piscina 250 ml",
+  "price": 24400,
+  "before": 30500
+ },
+ "192102": {
+  "name": "Tododia Mango rosa y agua de coco Spray sol, mar y piscina 200 ml",
+  "price": 30000,
+  "before": 37500
+ },
+ "278784": {
+  "name": "Kit Tododia Mango rosa y agua de coco (shampoo + acondicionador + spray)",
+  "price": 68900,
+  "before": 98500,
+  "pts": 16
+ },
+ "278775": {
+  "name": "Kit Tododia completo hidratación (shampoo + acondicionador + spray + mascarilla)",
+  "price": 92300,
+  "before": 142000,
+  "pts": 23
+ },
+ "278743": {
+  "name": "Kit Tododia intermedio hidratación (shampoo + acondicionador + mascarilla)",
+  "price": 73100,
+  "before": 104500,
+  "pts": 17
+ },
+ "278781": {
+  "name": "Kit Tododia básico hidratación (shampoo + acondicionador)",
+  "price": 45700,
+  "before": 61000,
+  "pts": 10
+ },
+ "128757": {
+  "name": "Naturé Agua de colonia 100 ml - Corre corre",
+  "price": 65900
+ },
+ "128758": {
+  "name": "Naturé Agua de colonia 100 ml - Salta salta",
+  "price": 65900,
+  "pts": 11
+ },
+ "106421": {
+  "name": "Naturé Agua de colonia 100 ml - Molino de viento",
+  "price": 65900,
+  "pts": 11
+ },
+ "146473": {
+  "name": "Naturé Agua de colonia 100 ml Corre corre - Repuesto",
+  "price": 51900,
+  "pts": 8
+ },
+ "146474": {
+  "name": "Naturé Agua de colonia 100 ml Salta salta - Repuesto",
+  "price": 51900,
+  "pts": 8
+ },
+ "156244": {
+  "name": "Naturé Agua de colonia 100 ml Molino de viento - Repuesto",
+  "price": 51900,
+  "pts": 8
+ },
+ "106496": {
+  "name": "Naturé Loción hidratante 125 ml"
+ },
+ "190132": {
+  "name": "Libro para colorear Creer para Ver"
+ },
+ "106968": {
+  "name": "Delantal Creer para Ver 75 x 49 cm"
+ },
+ "93623": {
+  "name": "Essencial Oud Eau de parfum femenino 50 ml",
+  "price": 218900
+ },
+ "121948": {
+  "name": "Essencial Oud Eau de parfum femenino 50 ml - Repuesto (último ciclo)",
+  "price": 174900,
+  "pts": 28
+ },
+ "212718": {
+  "name": "Essencial Safran Eau de parfum femenino 50 ml (nuevo)",
+  "price": 218900
+ },
+ "108217": {
+  "name": "Essencial Mirra Eau de parfum femenino 50 ml (último ciclo)",
+  "price": 218900
+ },
+ "93622": {
+  "name": "Essencial Exclusivo Eau de parfum femenino 50 ml",
+  "price": 218900
+ },
+ "110253": {
+  "name": "Essencial Exclusivo Eau de parfum femenino 50 ml - Repuesto (último ciclo)",
+  "price": 174900
+ },
+ "93624": {
+  "name": "Essencial Exclusivo floral Eau de parfum femenino 50 ml",
+  "price": 218900
+ },
+ "121946": {
+  "name": "Essencial Exclusivo floral Eau de parfum femenino 50 ml - Repuesto (último ciclo)",
+  "price": 174900
+ },
+ "118459": {
+  "name": "Essencial Único Eau de parfum femenino 90 ml"
+ },
+ "2771": {
+  "new": true,
+  "name": "Una Clásico Eau de parfum femenino 50 ml",
+  "price": 179900,
+  "before": 276900,
+  "pts": 45,
+  "page": 59,
+  "section": "Perfumería"
+ },
+ "204688": {
+  "name": "Una Nude Eau de parfum femenino 50 ml (exclusivo este ciclo)",
+  "price": 276900
+ },
+ "2726": {
+  "new": true,
+  "name": "Una Art Eau de parfum femenino 50 ml",
+  "price": 276900,
+  "pts": 45,
+  "page": 59,
+  "section": "Perfumería"
+ },
+ "116585": {
+  "name": "Luna Rosé Eau de toilette femenino 75 ml",
+  "price": 164900,
+  "before": null
+ },
+ "116582": {
+  "name": "Luna Absoluta Eau de toilette femenino 75 ml",
+  "price": 164900,
+  "before": null,
+  "pts": 27
+ },
+ "116584": {
+  "name": "Luna Radiante Eau de toilette femenino 75 ml",
+  "price": 164900,
+  "before": null,
+  "pts": 27
+ },
+ "204458": {
+  "name": "Luna Nuit Eau de toilette femenino 75 ml",
+  "price": 164900,
+  "before": null,
+  "pts": 27
+ },
+ "204459": {
+  "name": "Luna Nuit Desodorante hidratante corporal perfumado 300 ml"
+ },
+ "90927": {
+  "name": "Luna Intenso Eau de parfum femenino 50 ml"
+ },
+ "133869": {
+  "name": "Ekos Ryo Chuva Eau de toilette 75 ml (último ciclo)"
+ },
+ "133868": {
+  "name": "Ekos Ryo Festa Eau de toilette 75 ml"
+ },
+ "133871": {
+  "name": "Ekos Ryo Vivo Eau de toilette 75 ml"
+ },
+ "83324": {
+  "name": "Kriska Drama Eau de toilette femenino 100 ml"
+ },
+ "81950": {
+  "name": "Homem Potence Eau de parfum masculino 100 ml",
+  "price": 170900,
+  "pts": 28
+ },
+ "109164": {
+  "name": "Homem Tato Eau de parfum masculino 100 ml",
+  "price": 170900,
+  "pts": 28
+ },
+ "135068": {
+  "name": "Homem Elo Eau de parfum masculino 100 ml",
+  "price": 170900,
+  "pts": 28
+ },
+ "214425": {
+  "name": "Homem Evolut.io Eau de parfum masculino 100 ml",
+  "price": 190900,
+  "pts": 31
+ },
+ "186": {
+  "new": true,
+  "name": "Homem Cor.Agio Eau de parfum masculino 100 ml",
+  "price": 190900,
+  "pts": 31,
+  "page": 66,
+  "section": "Perfumería"
+ },
+ "57351": {
+  "name": "Homem Clásico Eau de toilette masculino 100 ml"
+ },
+ "59848": {
+  "name": "Homem Essence Eau de parfum masculino 100 ml"
+ },
+ "93617": {
+  "name": "Essencial Exclusivo Eau de parfum masculino 100 ml"
+ },
+ "93619": {
+  "name": "Essencial Oud Eau de parfum masculino 100 ml (último ciclo)",
+  "price": 251900
+ },
+ "121945": {
+  "name": "Essencial Oud Eau de parfum masculino 100 ml - Repuesto",
+  "price": 201900,
+  "pts": 33
+ },
+ "212988": {
+  "name": "Essencial Safran Eau de parfum masculino 100 ml (nuevo)",
+  "price": 251900
+ },
+ "108218": {
+  "name": "Essencial Mirra Eau de parfum masculino 100 ml (último ciclo)",
+  "price": 251900
+ },
+ "118463": {
+  "name": "Essencial Único Eau de parfum masculino 90 ml"
+ },
+ "111171": {
+  "name": "Kaiak Clásico Eau de toilette masculino 100 ml",
+  "price": 153900,
+  "pts": 25
+ },
+ "111172": {
+  "name": "Kaiak Urbe Eau de toilette masculino 100 ml",
+  "price": 153900,
+  "pts": 25
+ },
+ "111173": {
+  "name": "Kaiak Aventura Eau de toilette masculino 100 ml",
+  "price": 153900,
+  "pts": 25
+ },
+ "111175": {
+  "name": "Kaiak Océano Eau de toilette masculino 100 ml",
+  "price": 153900,
+  "pts": 25
+ },
+ "156226": {
+  "name": "Kaiak Sonar Eau de toilette masculino 100 ml",
+  "price": 153900,
+  "pts": 25
+ },
+ "228525": {
+  "name": "Kaiak 21K Eau de toilette masculino 100 ml"
+ },
+ "248628": {
+  "name": "Kaiak 21K Gel de ducha 100 g",
+  "price": 21400,
+  "pts": 3
+ },
+ "247692": {
+  "name": "Kaiak 21K Deo en crema antifricción 100 ml"
+ },
+ "69062": {
+  "name": "K Eau de parfum masculino 100 ml"
+ },
+ "122948": {
+  "name": "Humor transforma Eau de toilette unisex 75 ml"
+ },
+ "20834": {
+  "name": "Humor liberta Eau de toilette unisex 75 ml"
+ },
+ "64748": {
+  "name": "Humor a Dois Eau de toilette masculino 75 ml"
+ },
+ "64750": {
+  "name": "Paz e Humor Eau de toilette masculino 75 ml"
+ },
+ "131492": {
+  "name": "Humor conexión Eau de toilette masculino 75 ml"
+ },
+ "117978": {
+  "name": "Horus Azul Marine Eau de toilette masculino 100 ml"
+ },
+ "107123": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 10N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107124": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 15N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107125": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 19N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107126": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 21N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107127": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 24N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107128": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 27N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107129": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 30N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107130": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 32N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107132": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 37N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "107133": {
+  "name": "Corrector cushion Nude Me Una 12 ml - 43N",
+  "price": 68500,
+  "before": null,
+  "pts": 11
+ },
+ "122122": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 10N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122120": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 15N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122117": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 19N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122113": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 21N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122114": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 24N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122112": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 27N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122121": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 30N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122115": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 32N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122118": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 37N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "122123": {
+  "name": "Corrector cobertura extrema 24 hrs Una 8 ml - 43N",
+  "price": 39500,
+  "before": null,
+  "pts": 6
+ },
+ "24865": {
+  "name": "Iluminador marmoleado Una 3,5 g - Repuesto",
+  "price": 77000,
+  "before": null,
+  "pts": 12
+ },
+ "21454": {
+  "name": "Iluminador marmoleado Una 3,5 g"
+ },
+ "116401": {
+  "name": "Polvo compacto Nude Me Una 10 g - 12N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "116402": {
+  "name": "Polvo compacto Nude Me Una 10 g - 19N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "116403": {
+  "name": "Polvo compacto Nude Me Una 10 g - 21N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "116404": {
+  "name": "Polvo compacto Nude Me Una 10 g - 27N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "116405": {
+  "name": "Polvo compacto Nude Me Una 10 g - 31N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "116406": {
+  "name": "Polvo compacto Nude Me Una 10 g - 40N",
+  "price": 112500,
+  "before": null,
+  "pts": 18
+ },
+ "110678": {
+  "name": "Polvo compacto Nude Me Una 10 g - 12N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "110679": {
+  "name": "Polvo compacto Nude Me Una 10 g - 19N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "110680": {
+  "name": "Polvo compacto Nude Me Una 10 g - 21N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "110681": {
+  "name": "Polvo compacto Nude Me Una 10 g - 27N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "110682": {
+  "name": "Polvo compacto Nude Me Una 10 g - 31N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "110684": {
+  "name": "Polvo compacto Nude Me Una 10 g - 40N - Repuesto",
+  "price": 73500,
+  "before": null,
+  "pts": 12
+ },
+ "118797": {
+  "name": "Primer facial FPS 40 Una 30 ml",
+  "price": 84900,
+  "pts": 14
+ },
+ "59313": {
+  "name": "Primer blur Una 30 ml",
+  "price": 84900,
+  "pts": 14
+ },
+ "137961": {
+  "name": "Rubor líquido con aplicador Una 10 g - Rosa",
+  "price": 69500,
+  "pts": 11
+ },
+ "137962": {
+  "name": "Rubor líquido con aplicador Una 10 g - Peach",
+  "price": 69500,
+  "pts": 11
+ },
+ "153720": {
+  "name": "Bruma facial hidratante fijadora Una 100 ml",
+  "price": 86900,
+  "pts": 14
+ },
+ "55100": {
+  "name": "Pincel pro rubor Una",
+  "price": 93500,
+  "pts": 15
+ },
+ "55104": {
+  "name": "Pincel pro base líquida Una",
+  "price": 83200,
+  "pts": 13
+ },
+ "55105": {
+  "name": "Pincel pro polvo compacto Una",
+  "price": 105800,
+  "pts": 17
+ },
+ "105718": {
+  "name": "Esponja pro maquillaje Una",
+  "price": 53500,
+  "pts": 9
+ },
+ "173591": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173592": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173593": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173594": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173595": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173597": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173598": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173599": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173600": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173601": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173602": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173603": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173604": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173605": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173606": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173607": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173608": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173609": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173611": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "173612": {
+  "name": "Base líquida HD Una 30 ml - Rostro - Repuesto",
+  "price": 71000,
+  "before": null,
+  "pts": 11
+ },
+ "191617": {
+  "name": "Base líquida HD Una 30 ml - 10N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191618": {
+  "name": "Base líquida HD Una 30 ml - 25C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191619": {
+  "name": "Base líquida HD Una 30 ml - 27N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191620": {
+  "name": "Base líquida HD Una 30 ml - 29N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191621": {
+  "name": "Base líquida HD Una 30 ml - 30N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191622": {
+  "name": "Base líquida HD Una 30 ml - 31N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191623": {
+  "name": "Base líquida HD Una 30 ml - 33C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191625": {
+  "name": "Base líquida HD Una 30 ml - 35N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191626": {
+  "name": "Base líquida HD Una 30 ml - 35C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191627": {
+  "name": "Base líquida HD Una 30 ml - 36C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191628": {
+  "name": "Base líquida HD Una 30 ml - 12F",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191629": {
+  "name": "Base líquida HD Una 30 ml - 40C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191630": {
+  "name": "Base líquida HD Una 30 ml - 43N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191634": {
+  "name": "Base líquida HD Una 30 ml - 15C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191635": {
+  "name": "Base líquida HD Una 30 ml - 16F",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191636": {
+  "name": "Base líquida HD Una 30 ml - 19N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191637": {
+  "name": "Base líquida HD Una 30 ml - 20N",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191638": {
+  "name": "Base líquida HD Una 30 ml - 21C",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "191639": {
+  "name": "Base líquida HD Una 30 ml - 23F",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "193846": {
+  "name": "Base líquida HD Una 30 ml - 24F",
+  "price": 99900,
+  "before": null,
+  "pts": 16
+ },
+ "235283": {
+  "name": "Labial CC hidratante Una Colección Elegance 3,8 g - Rojo 1M fiestas",
+  "price": 61500,
+  "pts": 10
+ },
+ "235280": {
+  "name": "Labial CC hidratante Una Colección Elegance 3,8 g - Nude 2C fiestas",
+  "price": 61500,
+  "pts": 10
+ },
+ "232066": {
+  "name": "Paleta de sombras fiestas Una Colección Elegance 12 g"
+ },
+ "232065": {
+  "name": "Lápiz de labios y ojos dúo Negro / rojo Una 1 g"
+ },
+ "27703": {
+  "name": "Lápiz retráctil para ojos Una 280 mg - Marrón",
+  "price": 52900,
+  "pts": 9
+ },
+ "27371": {
+  "name": "Lápiz retráctil para ojos Una 280 mg - Negro",
+  "price": 52900,
+  "pts": 9
+ },
+ "34262": {
+  "name": "Delineador en fibra para ojos negro Una 1 ml"
+ },
+ "17042": {
+  "name": "Pincel delineador para cejas Una 1,1 ml - Castaño claro",
+  "price": 59100,
+  "pts": 10
+ },
+ "17043": {
+  "name": "Pincel delineador para cejas Una 1,1 ml - Castaño",
+  "price": 59100,
+  "pts": 10
+ },
+ "95757": {
+  "name": "Delineador peel off Negro matte Una 3 ml"
+ },
+ "70721": {
+  "name": "Lápiz Kajal para ojos Una 1,14 g - Marrón",
+  "price": 48200,
+  "pts": 8
+ },
+ "70720": {
+  "name": "Lápiz Kajal para ojos Una 1,14 g - Negro",
+  "price": 48200,
+  "pts": 8
+ },
+ "134592": {
+  "name": "Chronos Gel crema antiseñales renovación y prevención 30+ 40 g Día",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134593": {
+  "name": "Chronos Gel crema antiseñales renovación y prevención 30+ 40 g Noche",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134591": {
+  "name": "Chronos Gel crema antiseñales renovación y prevención 30+ 40 g Día - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134595": {
+  "name": "Chronos Gel crema antiseñales renovación y prevención 30+ 40 g Noche - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134725": {
+  "name": "Chronos Gel crema antiseñales firmeza y luminosidad 45+ 40 g Día",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "135032": {
+  "name": "Chronos Gel crema antiseñales firmeza y luminosidad 45+ 40 g Noche",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134585": {
+  "name": "Chronos Gel crema antiseñales firmeza y luminosidad 45+ 40 g Día - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134589": {
+  "name": "Chronos Gel crema antiseñales firmeza y luminosidad 45+ 40 g Noche - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134693": {
+  "name": "Chronos Crema antiseñales relleno y revitalización 60+ 40 g Día",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "135036": {
+  "name": "Chronos Crema antiseñales relleno y revitalización 60+ 40 g Noche",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134700": {
+  "name": "Chronos Crema antiseñales relleno y revitalización 60+ 40 g Día - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134587": {
+  "name": "Chronos Crema antiseñales relleno y revitalización 60+ 40 g Noche - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134697": {
+  "name": "Chronos Crema antiseñales restauración y cuidado 70+ 40 g Día",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "135027": {
+  "name": "Chronos Crema antiseñales restauración y cuidado 70+ 40 g Noche",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134723": {
+  "name": "Chronos Crema antiseñales restauración y cuidado 70+ 40 g Día - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134590": {
+  "name": "Chronos Crema antiseñales restauración y cuidado 70+ 40 g Noche - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134695": {
+  "name": "Chronos Crema antiseñales fortalecimiento y nutrición 80+ 40 g Día",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "135039": {
+  "name": "Chronos Crema antiseñales fortalecimiento y nutrición 80+ 40 g Noche",
+  "price": 185900,
+  "before": null,
+  "pts": 30
+ },
+ "134694": {
+  "name": "Chronos Crema antiseñales fortalecimiento y nutrición 80+ 40 g Día - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "134594": {
+  "name": "Chronos Crema antiseñales fortalecimiento y nutrición 80+ 40 g Noche - Repuesto",
+  "price": 130000,
+  "before": null,
+  "pts": 21
+ },
+ "155601": {
+  "name": "Tododia Reparación Flor de cereza y aguacate Shampoo reparador 300 ml"
+ },
+ "154865": {
+  "name": "Tododia Reparación Shampoo reparador 300 ml - Repuesto",
+  "price": 24500
+ },
+ "154876": {
+  "name": "Tododia Reparación Flor de cereza y aguacate Acondicionador reparador 280 ml"
+ },
+ "154861": {
+  "name": "Tododia Reparación Acondicionador reparador 280 ml - Repuesto",
+  "price": 24500
+ },
+ "156233": {
+  "name": "Tododia Reparación Flor de cereza y aguacate Crema para peinar reparadora 180 ml"
+ },
+ "156234": {
+  "name": "Tododia Reparación Crema para peinar reparadora 180 ml - Repuesto",
+  "price": 29900,
+  "pts": 5
+ },
+ "154875": {
+  "name": "Tododia Reparación Flor de cereza y aguacate Mascarilla concentrada 250 ml"
+ },
+ "154864": {
+  "name": "Tododia Reparación Mascarilla concentrada 250 ml - Repuesto",
+  "price": 34500
+ },
+ "154869": {
+  "name": "Tododia Nutrición Durazno y almendra Shampoo nutritivo 300 ml",
+  "price": 30500
+ },
+ "154867": {
+  "name": "Tododia Nutrición Shampoo nutritivo 300 ml - Repuesto",
+  "price": 24500
+ },
+ "154870": {
+  "name": "Tododia Nutrición Durazno y almendra Acondicionador nutritivo 280 ml"
+ },
+ "154859": {
+  "name": "Tododia Nutrición Acondicionador nutritivo 280 ml - Repuesto",
+  "price": 24500
+ },
+ "156237": {
+  "name": "Tododia Nutrición Durazno y almendra Crema para peinar nutritiva 180 ml"
+ },
+ "156236": {
+  "name": "Tododia Nutrición Crema para peinar nutritiva 180 ml - Repuesto",
+  "price": 29900,
+  "pts": 5
+ },
+ "154872": {
+  "name": "Tododia Nutrición Durazno y almendra Mascarilla concentrada 250 ml"
+ },
+ "154863": {
+  "name": "Tododia Nutrición Mascarilla concentrada 250 ml - Repuesto",
+  "price": 34500,
+  "pts": 6
+ },
+ "102395": {
+  "name": "Naturé Shampoo cabello lacio y ondulado 250 ml"
+ },
+ "102396": {
+  "name": "Naturé Shampoo cabello lacio y ondulado 250 ml - Repuesto"
+ },
+ "102397": {
+  "name": "Naturé Acondicionador cabello lacio y ondulado 250 ml"
+ },
+ "102398": {
+  "name": "Naturé Acondicionador cabello lacio y ondulado 250 ml - Repuesto"
+ },
+ "102400": {
+  "name": "Naturé Shampoo cabello rizado y crespo 250 ml"
+ },
+ "102401": {
+  "name": "Naturé Shampoo cabello rizado y crespo 250 ml - Repuesto"
+ },
+ "102402": {
+  "name": "Naturé Acondicionador cabello rizado y crespo 250 ml"
+ },
+ "102403": {
+  "name": "Naturé Acondicionador cabello rizado y crespo 250 ml - Repuesto"
+ },
+ "102404": {
+  "name": "Naturé Crema para peinar cabello rizado y crespo 250 ml"
+ },
+ "102405": {
+  "name": "Naturé Crema para peinar cabello rizado y crespo 250 ml - Repuesto"
+ },
+ "102406": {
+  "name": "Naturé Shampoo 2 en 1 250 ml"
+ },
+ "102407": {
+  "name": "Naturé Shampoo 2 en 1 250 ml - Repuesto"
+ },
+ "102417": {
+  "name": "Naturé Jabón líquido de glicerina 250 ml"
+ },
+ "102418": {
+  "name": "Naturé Jabón líquido de glicerina 250 ml - Repuesto",
+  "price": 36900,
+  "pts": 6
+ },
+ "112788": {
+  "name": "Naturé Jabones en barra Cuadraditos 5 x 90 g"
+ },
+ "92804": {
+  "name": "Mamá y bebé Loción hidratante 200 ml"
+ },
+ "106418": {
+  "name": "Mamá y bebé Loción hidratante 200 ml - Repuesto",
+  "price": 37500,
+  "pts": 6
+ },
+ "92807": {
+  "name": "Mamá y bebé Óleo vegetal para baño 200 ml"
+ },
+ "92808": {
+  "name": "Mamá y bebé Emulsión para prevenir estrías 200 ml"
+ },
+ "97955": {
+  "name": "Mamá y bebé Crema protectora antipañalitis 60 g"
+ },
+ "92798": {
+  "name": "Mamá y bebé Toallitas de limpieza 50 unidades",
+  "price": 36500,
+  "pts": 6
+ },
+ "92815": {
+  "name": "Mamá y bebé Óleo para masajes en bebés 100 ml"
+ },
+ "92786": {
+  "name": "Mamá y bebé Agua de colonia 100 ml"
+ },
+ "92790": {
+  "name": "Mamá y bebé Shampoo 200 ml"
+ },
+ "92791": {
+  "name": "Mamá y bebé Shampoo 200 ml - Repuesto"
+ },
+ "92800": {
+  "name": "Mamá y bebé Jabón líquido 200 ml"
+ },
+ "92802": {
+  "name": "Mamá y bebé Jabón líquido 200 ml - Repuesto",
+  "price": 37500,
+  "pts": 6
+ },
+ "92795": {
+  "name": "Mamá y bebé Jabones en barra 5 x 100 g"
+ },
+ "246359": {
+  "name": "Planeador Creer para Ver (nuevo)",
+  "price": 15000,
+  "pts": 2
+ },
+ "213864": {
+  "name": "Pocillo Creer para Ver",
+  "price": 27900
+ },
+ "267071": {
+  "name": "Prendedor mariposa Creer para Ver (nuevo)",
+  "price": 26900
+ },
+ "246357": {
+  "name": "Portacelular Creer para Ver",
+  "price": 29900
+ },
+ "213866": {
+  "name": "Pocillo + plato Creer para Ver",
+  "price": 32900
+ },
+ "140356": {
+  "name": "Set x 4 portavasos Creer para Ver",
+  "price": 32900
+ },
+ "246360": {
+  "name": "Maceta Creer para Ver",
+  "price": 34900
+ },
+ "213868": {
+  "name": "Pulsera Charms Creer para Ver",
+  "price": 23900
+ },
+ "246358": {
+  "name": "Organizador de cables Creer para Ver"
+ },
+ "140345": {
+  "name": "Morral Creer para Ver"
+ },
+ "213863": {
+  "name": "Bolsa reutilizable Creer para Ver",
+  "price": 29900
+ },
+ "213856": {
+  "name": "Set x 2 bolsas de regalo medianas Creer para Ver",
+  "price": 10900
+ },
+ "213855": {
+  "name": "Cartuchera Creer para Ver",
+  "price": 29900
+ },
+ "246356": {
+  "name": "Tarjetero Creer para Ver",
+  "price": 41900
+ },
+ "74900": {
+  "name": "Tododia Frutas rojas Crema nutritiva para el cuerpo 400 ml"
+ },
+ "2825": {
+  "new": true,
+  "name": "Tododia Frutas rojas Crema nutritiva para el cuerpo 400 ml - Repuesto",
+  "price": 57500,
+  "before": null,
+  "pts": 9,
+  "page": 125,
+  "section": "Cuerpo"
+ },
+ "23083": {
+  "name": "Tododia Frutas rojas Crema nutritiva para el cuerpo 200 ml"
+ },
+ "5857": {
+  "new": true,
+  "name": "Tododia Frutas rojas Jabón líquido corporal 300 ml",
+  "price": 51500,
+  "before": null,
+  "pts": 8,
+  "page": 125,
+  "section": "Cuerpo"
+ },
+ "5877": {
+  "new": true,
+  "name": "Tododia Frutas rojas Jabón líquido corporal 300 ml - Repuesto",
+  "price": 41500,
+  "before": null,
+  "pts": 7,
+  "page": 125,
+  "section": "Cuerpo"
+ },
+ "2834": {
+  "new": true,
+  "name": "Tododia Frutas rojas Jabones en barra puro vegetal 5 x 90 g",
+  "price": 46800,
+  "before": null,
+  "pts": 8,
+  "page": 125,
+  "section": "Cuerpo"
+ },
+ "94072": {
+  "name": "Tododia Mora roja y jabuticaba Crema nutritiva para el cuerpo 400 ml"
+ },
+ "87516": {
+  "name": "Tododia Mora roja y jabuticaba Crema nutritiva 400 ml - Repuesto",
+  "price": 57500,
+  "pts": 9
+ },
+ "110279": {
+  "name": "Tododia Mora roja y jabuticaba Jabón líquido exfoliante 190 g"
+ },
+ "5870": {
+  "new": true,
+  "name": "Tododia Mora roja y jabuticaba Jabón líquido en gel 300 ml",
+  "price": 51500,
+  "before": null,
+  "pts": 8,
+  "page": 125,
+  "section": "Cuerpo"
+ },
+ "87512": {
+  "name": "Tododia Mora roja y jabuticaba Jabones en barra puro vegetal 5 x 90 g"
+ },
+ "23151": {
+  "name": "Tododia Frambuesa y pimienta rosa Crema nutritiva para el cuerpo 200 ml (nuevo)"
+ },
+ "74897": {
+  "name": "Tododia Frambuesa y pimienta rosa Crema nutritiva para el cuerpo 400 ml"
+ },
+ "2819": {
+  "new": true,
+  "name": "Tododia Frambuesa y pimienta rosa Crema nutritiva 400 ml - Repuesto",
+  "price": 57500,
+  "before": null,
+  "pts": 9,
+  "page": 126,
+  "section": "Cuerpo"
+ },
+ "2831": {
+  "new": true,
+  "name": "Tododia Frambuesa y pimienta rosa Jabones en barra puro vegetal 5 x 90 g",
+  "price": 46800,
+  "before": null,
+  "pts": 8,
+  "page": 126,
+  "section": "Cuerpo"
+ },
+ "5852": {
+  "new": true,
+  "name": "Tododia Frambuesa y pimienta rosa Jabón líquido corporal 300 ml",
+  "price": 51500,
+  "before": null,
+  "pts": 8,
+  "page": 126,
+  "section": "Cuerpo"
+ },
+ "5871": {
+  "new": true,
+  "name": "Tododia Frambuesa y pimienta rosa Jabón líquido corporal 300 ml - Repuesto",
+  "price": 41500,
+  "before": null,
+  "pts": 7,
+  "page": 126,
+  "section": "Cuerpo"
+ },
+ "23152": {
+  "name": "Tododia Avellana y casis Crema nutritiva para el cuerpo 200 ml (nuevo)"
+ },
+ "86022": {
+  "name": "Tododia Avellana y casis Jabón líquido corporal 300 ml"
+ },
+ "74852": {
+  "name": "Tododia Avellana y casis Jabones en barra puro vegetal 5 x 90 g"
+ },
+ "74848": {
+  "name": "Tododia Avellana y casis Crema nutritiva para el cuerpo 400 ml"
+ },
+ "74849": {
+  "name": "Tododia Avellana y casis Crema nutritiva 400 ml - Repuesto",
+  "price": 57500
+ },
+ "205935": {
+  "name": "Tododia Fresa y vainilla dorada Crema nutritiva para el cuerpo 400 ml (último ciclo)"
+ },
+ "206230": {
+  "name": "Tododia Fresa y vainilla dorada Crema nutritiva 400 ml - Repuesto"
+ },
+ "219299": {
+  "name": "Tododia Fresa y vainilla dorada Exfoliante para el cuerpo 190 g"
+ },
+ "206231": {
+  "name": "Tododia Fresa y vainilla dorada Aceite bifásico corporal 120 ml"
+ },
+ "205941": {
+  "name": "Tododia Fresa y vainilla dorada Crema merengue para el cuerpo 250 g"
+ },
+ "205939": {
+  "name": "Tododia Fresa y vainilla dorada Jabones en barra puro vegetal 5 x 90 g"
+ },
+ "75363": {
+  "name": "Tododia Hojas de limón y guanábana Crema nutritiva para el cuerpo 400 ml"
+ },
+ "71596": {
+  "name": "Tododia Hojas de limón y guanábana Crema nutritiva 400 ml - Repuesto"
+ },
+ "23149": {
+  "name": "Tododia Hojas de limón y guanábana Crema nutritiva para el cuerpo 200 ml (nuevo)"
+ },
+ "2835": {
+  "new": true,
+  "name": "Tododia Hojas de limón y guanábana Jabones en barra puro vegetal 5 x 90 g",
+  "price": 46800,
+  "pts": 8,
+  "page": 123,
+  "section": "Cuerpo"
+ },
+ "83641": {
+  "name": "Tododia Jabón líquido íntimo suave confort 200 ml"
+ },
+ "277313": {
+  "name": "Regalo Una Colección Labiales - Tonos Rojos (gloss + labial matte + labial CC)",
+  "price": 99900,
+  "before": 177300,
+  "pts": 29
+ },
+ "277312": {
+  "name": "Regalo Una Colección Labiales - Tonos Nude (gloss + labial matte + labial CC)",
+  "price": 99900,
+  "before": 177300,
+  "pts": 29
+ },
+ "270027": {
+  "name": "Regalo Una Labios Sérum - Rouge 6M (sérum labial + labial matte + bolsa)",
+  "price": 74900,
+  "before": 116400,
+  "pts": 19
+ },
+ "270028": {
+  "name": "Regalo Una Labios Sérum - Nude 6M (sérum labial + labial matte + bolsa)",
+  "price": 74900,
+  "before": 116400,
+  "pts": 19
+ }
+}

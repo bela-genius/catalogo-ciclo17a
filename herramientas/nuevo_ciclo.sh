@@ -14,5 +14,6 @@ for i in range(len(d)):
 PY
 rm -f public/revista/*.jpg
 cp "$TMP"/out/pages/*.jpg public/revista/
-cp "$TMP/out/products.json" data/products.json
+python3 herramientas/aplicar_correcciones.py "$TMP/out/products.json" data/products.json
+echo "Ojo: herramientas/correcciones.json es del ciclo anterior; vacíalo ({}) para un ciclo nuevo y vuelve a revisar."
 echo "Listo: revisa data/products.json y cambia CYCLE_NAME en las variables de entorno."

@@ -8,7 +8,7 @@ import pymupdf as fitz
 PDF = sys.argv[1]
 OUT = sys.argv[2]
 
-CODE_RE = re.compile(r"\((\d{5,6})\)")
+CODE_RE = re.compile(r"\((\d{4,6})\)")
 MONEY_RE = re.compile(r"\$\s*([\d\.]+)")
 PTS_RE = re.compile(r"(\d+)\s*pts")
 SKIP_RE = re.compile(
@@ -110,18 +110,24 @@ def money2(t):
     return int(m.group(0).replace(".", "")) if m else money(t)
 
 
+SRC = {"v": None}
+
+
 def find_price(code_b, lines):
     cx0, cy0, cx1, cy1 = code_b
+    SRC["v"] = None
     below = [l for l in lines if is_price(l) and 0 <= l["b"][1] - cy1 < 40 and abs(l["b"][0] - cx0) < 40]
     if below:
         below.sort(key=lambda l: l["b"][1] - cy1)
         de = [l for l in lines if is_before(l) and 0 <= l["b"][1] - cy1 < 30 and abs(l["b"][0] - cx0) < 40]
+        SRC["v"] = "debajo"
         return money2(below[0]["t"]), (money(de[0]["t"]) if de else None)
     # 2) oferta: "A $" y "De $" arriba del código
     a = [l for l in lines if l["t"].startswith("A $") and 0 <= cy0 - l["b"][3] < 80 and abs(l["b"][0] - cx0) < 60]
     if a:
         a.sort(key=lambda l: cy0 - l["b"][3])
         de = [l for l in lines if is_before(l) and -10 <= a[0]["b"][1] - l["b"][3] < 40 and abs(l["b"][0] - a[0]["b"][0]) < 40]
+        SRC["v"] = "oferta"
         return money(a[0]["t"]), (money(de[0]["t"]) if de else None)
     # 3) precio más cercano en la página (p. ej. "cada uno" o variantes)
     best = None
@@ -133,6 +139,7 @@ def find_price(code_b, lines):
             if best is None or dist < best[0]:
                 best = (dist, l)
     if best and best[0] < 260:
+        SRC["v"] = "cercano"
         de = [l for l in lines if is_before(l) and 0 <= best[1]["b"][1] - l["b"][3] < 40 and abs(l["b"][0] - best[1]["b"][0]) < 40]
         return money2(best[1]["t"]), (money(de[0]["t"]) if de else None)
     return None, None
@@ -214,6 +221,7 @@ def main():
                     kind = "oferta"
                     name = title
             price, before = find_price(b, lines)
+            src = SRC["v"]
             base_name = name.replace(" - Repuesto", "")
             if kind == "regular" and shade_like(base_name):
                 dname, dl = descriptor(b, lines)
@@ -226,6 +234,7 @@ def main():
                             p2, b2 = find_price(min(rep, key=lambda l: l["b"][1])["b"], lines)
                     if p2:
                         price, before = p2, b2
+                        src = "tono"
             name = re.sub(r"( - Repuesto)+", " - Repuesto", name)
             if code in products:
                 continue
@@ -240,6 +249,7 @@ def main():
                 "kind": kind,
                 "detail": desc if kind == "oferta" else [],
                 "bbox": [round(v, 1) for v in b],
+                "src": src,
             }
             products[code] = p
             order.append(code)
@@ -268,6 +278,7 @@ def main():
                     p["name"] = f"{base} - {p['name']}"
                 if not p["price"] and main_price:
                     p["price"] = money2(main_price["t"].replace("A $", "$"))
+                    p["src"] = "pagina"
                     p["before"] = p["before"] or mp_before
             page_names_b = {c: products[c]["bbox"] for c in page_names}
     res = [products[c] for c in order]
@@ -287,6 +298,7 @@ def main():
             for p in grp:
                 if not p["price"] and " - " in p["name"]:
                     p["price"] = common
+                    p["src"] = "hermano"
     # completar precios faltantes con hermanos (mismo producto base y tipo en la misma página)
     def key(p):
         base = p["name"].split(" - ")[0]
@@ -298,6 +310,7 @@ def main():
     for p in res:
         if not p["price"] and key(p) in known and " - " in p["name"]:
             p["price"] = known[key(p)]
+            p["src"] = "hermano"
     json.dump(res, open(OUT, "w"), ensure_ascii=False, indent=1)
     print(len(res), "productos")
 

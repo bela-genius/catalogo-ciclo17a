@@ -4,17 +4,19 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Catálogo</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preload" href="/fonts/vt323-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
+  <div class="marquee" aria-hidden="true"><div class="marquee-track"><span id="marqueeText">★ PEDIDOS POR WHATSAPP ★ CICLO 17A ★ BUSCA, AGREGA Y ENVÍA TU PEDIDO ★ OFERTAS DE NAVIDAD ★</span><span>★ PEDIDOS POR WHATSAPP ★ CICLO 17A ★ BUSCA, AGREGA Y ENVÍA TU PEDIDO ★ OFERTAS DE NAVIDAD ★</span></div></div>
   <header class="top">
     <div class="brand">
-      <span class="brand-cycle" id="cycle">Ciclo 17A</span>
-      <h1 id="storeName">Catálogo</h1>
+      <span class="pixel-cross" aria-hidden="true"></span>
+      <div>
+        <h1 id="storeName">Catálogo</h1>
+        <span class="brand-cycle" id="cycle">Ciclo 17A</span>
+      </div>
     </div>
     <div class="searchbox">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
@@ -44,6 +46,13 @@
   </nav>
 
   <main>
+    <section class="hero" id="hero">
+      <div class="hero-text">
+        <h2>Toda la revista,<br>en un solo lugar.</h2>
+        <p>Busca por nombre o código, pregúntale al asistente y envía tu pedido por WhatsApp.</p>
+      </div>
+      <div class="hero-board" aria-hidden="true"></div>
+    </section>
     <section id="view-catalogo">
       <p class="results-info" id="resultsInfo"></p>
       <div class="grid" id="grid"></div>
@@ -92,7 +101,7 @@
 
   <!-- Asistente -->
   <button class="ai-fab" id="aiFab">
-    <span class="spark">✦</span> Asistente
+    <span class="spark">✦</span> ASISTENTE
   </button>
   <section class="ai-panel" id="aiPanel" hidden>
     <div class="ai-head">

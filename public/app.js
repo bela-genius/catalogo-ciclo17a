@@ -39,7 +39,7 @@
     $$(`[data-add="${code}"]`).forEach((b) => {
       const q = cart[code];
       b.classList.toggle("in", !!q);
-      b.textContent = q ? `En el carrito (${q}) · +1` : b.dataset.label || "Agregar";
+      b.textContent = q ? (b.dataset.label === "+" ? `${q} ✓` : `EN CARRITO (${q}) +1`) : b.dataset.label || "AGREGAR";
     });
   }
   function renderCartCount() { $("#cartCount").textContent = cartQty(); }
@@ -87,7 +87,7 @@
       if (section === "Ofertas" && !(p.promo || discount(p) > 0)) return false;
       if (section !== "Todo" && section !== "Ofertas" && p.section !== section) return false;
       if (!terms.length) return true;
-      if (/^\d{4,6}$/.test(q)) return p.code.includes(q);
+      if (/^\d{3,6}$/.test(q)) return p.code.includes(q);
       return matches(p, terms);
     });
     const s = $("#sort").value;
@@ -105,13 +105,15 @@
       <button class="thumb" data-detail="${p.code}" aria-label="Ver ${esc(p.name)}">
         <img loading="lazy" src="/revista/s${pad(p.page)}.jpg" alt="">
         ${d > 0 ? `<span class="badge">-${d}%</span>` : ""}
-        <span class="pagetag">Pág. ${p.page}</span>
       </button>
       <div class="info">
-        <p class="name">${esc(p.name)}</p>
-        <span class="code">Código ${p.code}${p.pts ? ` · ${p.pts} pts` : ""}</span>
-        ${priceHTML(p)}
-        <button class="add" data-add="${p.code}">Agregar</button>
+        <div class="row">
+          <p class="name">${esc(p.name)}</p>
+          ${priceHTML(p)}
+        </div>
+        <span class="code">COD ${p.code}${p.pts ? ` · ${p.pts} PTS` : ""}</span>
+        <button class="ghost" data-detail="${p.code}">VER EN REVISTA <span class="tag">PÁG ${p.page}</span></button>
+        <button class="add" data-add="${p.code}" data-label="AGREGAR">AGREGAR</button>
       </div>
     </article>`;
   }
@@ -141,7 +143,7 @@
         <h2>${esc(p.name)}</h2>
         ${priceHTML(p)}
         ${p.detail && p.detail.length ? `<ul>${p.detail.map((d) => `<li>${esc(d)}</li>`).join("")}</ul>` : ""}
-        <button class="add" data-add="${p.code}">Agregar</button>
+        <button class="add" data-add="${p.code}" data-label="AGREGAR AL CARRITO">AGREGAR AL CARRITO</button>
         <button class="linkish" data-gopage="${p.page}">Ver la página ${p.page} en la revista →</button>
         <p class="muted" style="font-size:12.5px">Busca en la imagen el código <b>${p.code}</b> para ver el producto exacto.</p>
       </div></div>`;
@@ -167,6 +169,7 @@
     $$(".tab").forEach((t) => t.classList.toggle("active", t.dataset.view === v));
     $("#view-catalogo").hidden = v !== "catalogo";
     $("#view-revista").hidden = v !== "revista";
+    $("#hero").hidden = v !== "catalogo";
     $(".chips").style.visibility = $(".sort").style.visibility = v === "catalogo" ? "visible" : "hidden";
     if (v === "revista") {
       if (!$("#strip").childElementCount)
@@ -216,7 +219,7 @@
         <p class="error" id="orderError" hidden></p>
         <button class="order-btn" id="orderBtn">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-3.9-4.7-4.1-.1-.2-1.1-1.5-1.1-2.9s.7-2.1 1-2.4c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .5l-.3.5-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.6-.1l2 .9c.3.2.5.2.5.4.1.1.1.7-.1 1.4Z"/></svg>
-          Quiero hacer mi pedido
+          QUIERO HACER MI PEDIDO
         </button>
       </form>`;
   }
