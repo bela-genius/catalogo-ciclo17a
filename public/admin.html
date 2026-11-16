@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>Panel de pedidos</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+  <style>
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 24px clamp(14px, 3vw, 30px) 60px; }
+    .login { max-width: 360px; margin: 12vh auto; background: var(--paper); border: 1px solid var(--line); border-radius: 20px; padding: 28px; box-shadow: var(--shadow); }
+    .login h1, .wrap h1 { font-family: var(--serif); margin: 0 0 6px; }
+    .login input { width: 100%; padding: 12px; border: 1px solid var(--line); border-radius: 10px; margin: 14px 0; }
+    .btn { border: 0; border-radius: 10px; padding: 10px 14px; font-weight: 700; background: var(--ink); color: #fff; }
+    .btn.ok { background: var(--ok); } .btn.ghost { background: var(--soft); color: var(--ink); } .btn.warn { background: #f6dcd5; color: #9b2b13; }
+    .bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin: 14px 0 18px; }
+    .order { background: var(--paper); border: 1px solid var(--line); border-radius: 16px; padding: 16px 18px; margin-bottom: 14px; }
+    .order header { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; align-items: baseline; }
+    .order .code { font-family: var(--serif); font-size: 22px; color: var(--accent); }
+    .order table, .cons { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 14px; }
+    th, td { text-align: left; padding: 7px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    td.num, th.num { text-align: right; white-space: nowrap; }
+    .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+    .status { font-size: 12px; font-weight: 700; padding: 3px 8px; border-radius: 999px; background: var(--soft); }
+    .status.verificado { background: #dcefe3; color: var(--ok); } .status.enviado_natura { background: #dde6f6; color: #2a4f8f; } .status.cancelado { background: #f6dcd5; color: #9b2b13; }
+    .find { padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; min-width: 220px; }
+    .help { background: var(--soft); border-radius: 14px; padding: 12px 16px; font-size: 14px; color: var(--ink); }
+  </style>
+</head>
+<body>
+  <div id="login" class="login" hidden>
+    <h1>Panel de pedidos</h1>
+    <p class="muted">Acceso solo para el manager y quien atiende el WhatsApp.</p>
+    <form id="loginForm">
+      <input type="password" id="pw" placeholder="Contraseña" autocomplete="current-password" required />
+      <button class="btn" style="width:100%">Entrar</button>
+      <p class="error" id="loginErr" hidden></p>
+    </form>
+  </div>
+
+  <div id="app" class="wrap" hidden>
+    <div class="bar">
+      <div><h1>Pedidos</h1><span class="muted" id="roleLabel"></span></div>
+      <button class="btn ghost" id="logout">Salir</button>
+    </div>
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-tab="pendiente">Por verificar</button>
+      <button class="tab" data-tab="verificado" data-mgr>Base de datos</button>
+      <button class="tab" data-tab="consolidado" data-mgr>Pedido a Natura</button>
+      <button class="tab" data-tab="historial" data-mgr>Historial</button>
+    </div>
+    <div class="bar">
+      <input class="find" id="find" placeholder="Buscar por código (PED-…) o cliente" />
+      <div class="actions" id="tools"></div>
+    </div>
+    <div id="content"></div>
+  </div>
+
+  <script src="/admin.js"></script>
+</body>
+</html>

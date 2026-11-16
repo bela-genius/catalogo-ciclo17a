@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: catalogo-ciclo
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: STORE_NAME
+        value: Mi catálogo
+      - key: CYCLE_NAME
+        value: Ciclo 17A
+      - key: WHATSAPP_NUMBER
+        value: "573148616132"
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: MANAGER_PASSWORD
+        sync: false
+      - key: ATTENDANT_PASSWORD
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catálogo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="brand-cycle" id="cycle">Ciclo 17A</span>
+      <h1 id="storeName">Catálogo</h1>
+    </div>
+    <div class="searchbox">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="q" type="search" placeholder="Busca por nombre, código o tipo: «labial rojo», «151018»…" autocomplete="off" />
+    </div>
+    <button class="cart-btn" id="openCart" aria-label="Ver carrito">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 7h12l-1 13H7L6 7Z"/><path d="M9 7a3 3 0 0 1 6 0"/></svg>
+      <span>Carrito</span>
+      <b id="cartCount">0</b>
+    </button>
+  </header>
+
+  <nav class="toolbar">
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-view="catalogo">Catálogo</button>
+      <button class="tab" data-view="revista">Revista</button>
+    </div>
+    <div class="chips" id="chips"></div>
+    <label class="sort">Ordenar
+      <select id="sort">
+        <option value="page">Como en la revista</option>
+        <option value="price-asc">Menor precio</option>
+        <option value="price-desc">Mayor precio</option>
+        <option value="discount">Mayor descuento</option>
+      </select>
+    </label>
+  </nav>
+
+  <main>
+    <section id="view-catalogo">
+      <p class="results-info" id="resultsInfo"></p>
+      <div class="grid" id="grid"></div>
+      <button class="more" id="more" hidden>Ver más productos</button>
+    </section>
+
+    <section id="view-revista" hidden>
+      <div class="reader">
+        <div class="reader-page">
+          <button class="nav prev" id="prevPage" aria-label="Página anterior">‹</button>
+          <img id="pageImg" alt="Página de la revista" />
+          <button class="nav next" id="nextPage" aria-label="Página siguiente">›</button>
+        </div>
+        <aside class="reader-side">
+          <div class="pager">
+            Página <input id="pageNum" type="number" min="1" /> de <span id="pageTotal"></span>
+          </div>
+          <h3>Productos de esta página</h3>
+          <div id="pageProducts" class="page-products"></div>
+        </aside>
+      </div>
+      <div class="strip" id="strip"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>Tienda de consultora independiente. Los precios y la disponibilidad se confirman por WhatsApp antes de hacer el pedido.</p>
+    <p class="muted">Las marcas y las imágenes de la revista pertenecen a sus dueños.</p>
+  </footer>
+
+  <!-- Carrito -->
+  <div class="overlay" id="overlay" hidden></div>
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <h2>Tu pedido</h2>
+      <button class="x" id="closeCart" aria-label="Cerrar">×</button>
+    </div>
+    <div id="cartBody"></div>
+  </aside>
+
+  <!-- Detalle de producto -->
+  <dialog id="productDialog">
+    <button class="x" data-close aria-label="Cerrar">×</button>
+    <div id="productDetail"></div>
+  </dialog>
+
+  <!-- Asistente -->
+  <button class="ai-fab" id="aiFab">
+    <span class="spark">✦</span> Asistente
+  </button>
+  <section class="ai-panel" id="aiPanel" hidden>
+    <div class="ai-head">
+      <div>
+        <strong>Asistente de búsqueda</strong>
+        <small id="aiMode"></small>
+      </div>
+      <button class="x" id="aiClose" aria-label="Cerrar">×</button>
+    </div>
+    <div class="ai-msgs" id="aiMsgs">
+      <div class="msg bot">¡Hola! Cuéntame qué buscas y te ayudo a encontrarlo. Por ejemplo:
+        <div class="suggest">
+          <button>Regalo para mi mamá de menos de 100 mil</button>
+          <button>Perfume amaderado para hombre</button>
+          <button>Algo para piel grasa</button>
+          <button>Labial rojo que dure</button>
+        </div>
+      </div>
+    </div>
+    <form class="ai-form" id="aiForm">
+      <input id="aiInput" placeholder="Escribe lo que buscas…" autocomplete="off" />
+      <button>Enviar</button>
+    </form>
+  </section>
+
+  <div class="toast" id="toast" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

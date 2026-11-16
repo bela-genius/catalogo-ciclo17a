@@ -1,0 +1,19 @@
+{
+  "name": "catalogo-ciclo-17a",
+  "version": "1.0.0",
+  "description": "Catálogo web de la revista Ciclo 17A con buscador, asistente de IA, carrito, pedidos por WhatsApp y panel del manager",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.60.0",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
